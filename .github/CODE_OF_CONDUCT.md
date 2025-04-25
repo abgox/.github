@@ -1,9 +1,11 @@
 # Code of Conduct
 
-This project/repository uses the [Contributor Covenant](https://www.contributor-covenant.org).
+This project/repository has adopted the [Contributor Covenant](https://www.contributor-covenant.org).
 
-For more information, see the [Contributor Covenant V2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+Resources:
 
-Other translated versions are available at [contributor-covenant.org](https://www.contributor-covenant.org/translations).
+- [Contributor Covenant V2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+- [Contributor Covenant FAQ](https://www.contributor-covenant.org/faq)
+- [Contributor Covenant Translations](https://www.contributor-covenant.org/translations)
 
 Contact: abgohxf@outlook.com
