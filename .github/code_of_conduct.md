@@ -8,4 +8,4 @@ All community participants are expected to abide by the [Contributor Covenant](h
 - [Contributor Covenant FAQ](https://www.contributor-covenant.org/faq)
 - [Contributor Covenant Translations](https://www.contributor-covenant.org/translations)
 
-**Contact**: abgohxf@outlook.com
+**Contact**: me@abgox.com
